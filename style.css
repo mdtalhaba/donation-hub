@@ -1,3 +1,28 @@
-h1 {
-    color: red;
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+
+.div-1 {
+    text-align: center;
+    color: white;
+    margin: 0;
+    font-size: xx-large;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(image/donation5.jpg);
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-origin: initial;
+    padding: 150px 300px;
+}
+
+.h1-1 {}
+
+.link-button-1 {
+    text-decoration: none;
+    font-weight: 700;
+    background-image: linear-gradient(blue, rgb(114, 206, 243));
+    color: white;
+    padding: 15px 40px;
+    border-radius: 10px;
 }
