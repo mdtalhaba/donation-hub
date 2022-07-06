@@ -59,6 +59,9 @@ body {
     margin: 3%;
     padding: 20px 50px;
     border-radius: 10px;
+    border-bottom: 7px solid red;
+    border-top: 7px solid red;
+    box-shadow: 5px 5px 10px;
 }
 
 .font-size {
@@ -72,6 +75,7 @@ body {
 
 .b-c-1 {
     background-color: rgb(233, 251, 198);
+
 }
 
 .b-c-2 {
@@ -80,6 +84,49 @@ body {
 
 .b-c-3 {
     background-color: rgb(250, 235, 250);
+}
+
+.section-3 {
+    display: flex;
+    margin: 5%;
+    font-size: x-large;
+}
+
+.top-margin {
+    padding-top: 50px;
+}
+
+.link-button-2 {
+    text-decoration: none;
+    font-weight: 700;
+    background-image: linear-gradient(tomato, orange);
+    color: white;
+    padding: 15px 40px;
+    border-radius: 10px;
+}
+
+.div-7 {
+    margin: 100px;
+}
+
+
+
+.div-8 {
+    text-align: center;
+    margin: 100px 580px;
+}
+
+.button {
+    border-radius: 2px;
+}
+
+form {
+    background-color: rgb(208, 240, 249);
+    padding: 50px 100px;
+}
+
+.text-color {
+    color: dimgray;
 }
 
 footer {
